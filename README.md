@@ -2,7 +2,7 @@
 
 ### Automated ORKG Properties Extraction and Evaluation Using GPT-3.5-Turbo
 
-This Python script processes research problem descriptions from scientific publications to extract and evaluate properties using the Large Language Model (LLM) GPT-3.5-Turbo. It performs automated extraction, evaluation, and matching of the extracted properties to ORKG properties retrieved via the ORKG API.
+This repository contains the Python script developed as part of the study "Evaluating improvements on using Large Language Models (LLMs) for property extraction in the Open Research Knowledge Graph (ORKG)". The Python script processes research problem descriptions from scientific publications to extract and evaluate properties using GPT-3.5-Turbo. It performs automated extraction, evaluation, and matching of the extracted properties to ORKG properties retrieved via the ORKG API.
 
 ## Features
 
