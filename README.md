@@ -60,6 +60,7 @@ The script includes the following core components:
 This script is based on research by Nechakhin et al., 2024:
 Research paper:
 V. Nechakhin, J. D’Souza, and S. Eger, „Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph,“ Information, vol. 15, no. 6. MDPI AG, p. 328, Jun. 05, 2024. doi: 10.3390/info15060328. (19.01.2025)
+
 Gold standard data set: Vladyslav Nechakhin, Jennifer D’Souza (2024). ORKG Properties and LLM-Generated Research Dimensions Evaluation Dataset [Data set]. LUIS. https://doi.org/10.25835/6oyn9d1n. (19.01.2025)
 
 ## License
