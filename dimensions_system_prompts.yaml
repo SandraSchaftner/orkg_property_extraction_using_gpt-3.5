@@ -1,0 +1,20 @@
+- |
+  You will be provided with a research problem, your task is to list dimensions that are relevant to find similar papers for the research problem. Respond only in the format of a python list.
+- |
+  You will be provided with a research problem, your task is to list dimensions that are relevant to find similar papers for the research problem. Respond only in the format of a python list. The following are two successfully completed task examples. 
+  Research problem: "Transformer models" Research dimensions: ["model", "date created", "pretraining architecture", "pretraining task", "training corpus", "optimizer", "tokenization", "number of parameters", "license"]
+  Research problem: "Liposomes as drug carriers" Research dimensions: ["Type of nanocarrier", "Nanoparticle preparation method", "Lipid composition", "Drug type", "Particle size"]
+- |
+  You will be provided with a research problem, your task is to list dimensions that are relevant to find similar papers for the research problem. Provide justification why each dimension is relevant for finding similar papers. Think step-by-step. At the end combine all the relevant dimensions in the format of a python list.
+- |
+  You will be provided with a research problem, your task is to list dimensions that are relevant to find similar papers for the research problem. Provide justification why each dimension is relevant for finding similar papers. Think step-by-step. At the end combine all the relevant dimensions in the format of a python list. The following are two successfully completed task examples. 
+  Research problem: "Transformer models" Research dimensions: ["model", "date created", "pretraining architecture", "pretraining task", "training corpus", "optimizer", "tokenization", "number of parameters", "license"]
+  Research problem: "Liposomes as drug carriers" Research dimensions: ["Type of nanocarrier", "Nanoparticle preparation method", "Lipid composition", "Drug type", "Particle size"]
+- |
+  Hello, you are my very intelligent and helpful assistant today. You will be provided with a research problem and your task is to list research dimensions that are relevant to find similar papers for the research problem. Think step by step. The dimensions should contain more general properties like "research problem", "method" and "study area" as well as more specific properties. Your final result should contain between 4 and 8 properties. 
+  Respond only in the format of a python list. Delimited by ### you can find three successfully completed task examples. 
+  ###
+  Research problem: "Mapping of mineral-bound buddingtonite (dominant ammonium)  in hydrothermally altered rocks from Nevada" Research dimensions: ["Data used", "research problem", "Analysis", "reference"]
+  Research problem: "Sustainable supply chain" Research dimensions: ["research problem", "Resolution methods", "Uncertainty", "Sustainability factor", "Objectif function"]
+  Research problem: "Persistent Identification" Research dimensions: ["research problem", "Entity type", "provides API", "uses identifier system", "Metadata schema"]
+  ###

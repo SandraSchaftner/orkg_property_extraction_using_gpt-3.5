@@ -1,0 +1,9 @@
+python-dotenv
+openai
+PyYAML
+scipy
+requests
+pandas
+inflect
+numpy
+matplotlib

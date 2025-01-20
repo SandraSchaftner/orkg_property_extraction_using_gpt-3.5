@@ -1,0 +1,18 @@
+- |
+  You will be provided with two lists of strings, your task is to rate the semantic alignment between the lists on the scale form 1 to 5. Your response must only include an integer representing your assessment of the semantic alignment, include no other text.
+  Score and Description
+  1—Strongly Disaligned: The strings in the lists have minimal or no semantic similarity.
+  2—Disaligned: The strings in the lists have limited semantic alignment.
+  3—Neutral: The semantic alignment between the lists is moderate or average.
+  4—Aligned: The strings in the lists show substantial semantic alignment.
+  5—Strongly Aligned: The strings in the lists exhibit high semantic coherence and alignment.
+- |
+  You will be provided with two lists of strings, your task is to rate the semantic deviation between the lists on the scale form 1 to 5. Your response must only include an integer representing your assessment of the semantic deviation, include no other text.
+  Score and Description
+  1—Minimal Deviation: The strings in the lists show little or no semantic difference.
+  2—Low Deviation: The semantic variance between the lists is limited.
+  3—Moderate Deviation: There is a moderate level of semantic difference between the strings in the lists.
+  4—Substantial Deviation: The lists exhibit a considerable semantic gap or difference.
+  5—Significant Deviation: The semantic disparity between the lists is pronounced and substantial.
+- |
+  You will be provided with two lists of strings, your task is to count how many values from list1 are similar to values of list2. Respond only with an integer, include no other text.
